@@ -63,7 +63,7 @@ These projects utilize a range of tools and technologies, including but not limi
 
 ## 💖 Sponsorship
 
-If you would like to support my work, please check out the [Sponsorship Page](https://github.com/sponsors/CoderBlee/dashboard)  
+If you would like to support my work, please check out the [Sponsorship Page](https://github.com/sponsors/CoderBlee)  
 (SPONSORSHIP.md).
 
 ...existing code...
