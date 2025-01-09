@@ -1,0 +1,2 @@
+Enable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2Root
+Set-ExecutionPolicy RemoteSigned
