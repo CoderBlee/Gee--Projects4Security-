@@ -2,14 +2,14 @@
 
 Welcome to my **CompTIA Security+ Inspired Projects** repository.This is a collection of projects I created from scratch, inspired by the concepts and skills I am learning while studying for the CompTIA Security+ certification. 
 
-## 🎯 Purpose
+##  Purpose
 
 The purpose of this repository is to:
 1. Reinforce my understanding of cybersecurity concepts through hands-on projects.
 2. Share my projects with others who are also learning cybersecurity or preparing for the CompTIA Security+ certification.
 3. Provide practical examples of how the theories and principles in Security+ can be applied in real-world scenarios.
 
-## 📘 About the Projects
+##  About the Projects
 
 Each project in this repository focuses on a specific topic or domain from the CompTIA Security+ syllabus. Some examples of topics include:
 - **Network Security**: Creating tools to simulate and secure a network environment.
@@ -18,9 +18,9 @@ Each project in this repository focuses on a specific topic or domain from the C
 - **Cryptography**: Implementing encryption and decryption methods to secure data.
 - **Risk Management**: Designing policies and systems to assess and manage risks.
 
-> These projects are entirely my own creation, designed from the ground up based on what I’ve learned and how I interpret the material.
+> These projects are entirely my own creations, designed from the ground up based on what I’ve learned and how I interpret the material.
 
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 
 ### Clone the Repository
 To get started, clone this repository to your local machine:
@@ -62,12 +62,11 @@ These projects utilize a range of tools and technologies, including but not limi
 ...existing code...
 
 ## 💖 Sponsorship
+If you find my projects helpful, please consider supporting me on GitHub Sponsors! Your contributions help me dedicate more time to creating educational content and expanding the projects in this repository.  
 
-If you would like to support my work, please check out the [Sponsorship Page](https://github.com/sponsors/CoderBlee)  
-(SPONSORSHIP.md).
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-me%20on%20GitHub-%23EA4AAA?logo=github)](https://github.com/sponsors/CoderBlee)(SPONSORSHIP.md).
 
-...existing code...
-
+Thank You
 ## 🌟 Acknowledgements
 
 A big thank you to the equipHumanity and LeetMe for providing me with such an amazing opportunity to upskill.You ready...
